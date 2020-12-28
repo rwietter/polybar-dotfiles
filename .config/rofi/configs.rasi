@@ -1,0 +1,182 @@
+//
+//
+// |@pbwr7
+//
+//
+// ------------------------------------
+// Configuration
+// ------------------------------------
+
+configuration {
+	width: 			3;
+	lines: 			2;
+    show-icons:     true;
+    font:           "Source Sans Pro Light 13";
+	show-match: 		true;
+	separator-style: 	"solid";
+	hide-scrollbar: 	true;
+	}
+
+// ------------------------------------
+// Theme Settings
+// ------------------------------------
+
+// ------------------------------------
+// Colors
+// ------------------------------------
+
+* {
+    RELAX0:			     #2E3440;
+    RELAX1: 			 #3B4252;
+    RELAX2: 			 #434C5E;
+    RELAX3: 			 #4C566A;
+    RELAX4: 			 #D8DEE9;
+    RELAX5:  		     #E5E9F0;
+    RELAX:  			 #ECEFF4;
+    RELAX: 			     #8FBCBB;
+    RELAX:   			 #88C0D0;
+    RELAXn:  			 #81A1C1;
+    RELAX10: 			 #5E81AC;
+    RELAX11: 			 #BF616A;
+    RELAX12: 			 #D08770;
+    RELAX13: 			 #EBCB8B;
+    RELAX14: 			 #b9aa99;
+    RELAX15: 			 #B48EAD;
+    RELAX16:             #FFFFFF;
+    RELAX17:             #3d3d3d;
+    RELAX18:             #c9665e;
+    RELAX19:             #d1d1e0;
+    RELAX20:             #202020;
+    background:                  @RELAX20;
+    foreground:                  @RELAX16;
+    selected-normal-foreground:  @RELAX16;
+    normal-foreground:           @foreground;
+    alternate-normal-background: @RELAX20;
+    selected-urgent-foreground:  @RELAX4;
+    urgent-foreground:           @foreground;
+    alternate-urgent-background: @RELAX0;
+    active-foreground:           @RELAX20;
+    selected-active-foreground:  @RELAX20;
+    alternate-active-background: @RELAX20;
+    bordercolor:                 @RELAX10;
+    alternate-normal-foreground: @foreground;
+    normal-background:           @background;
+    selected-normal-background:  @RELAX17;
+    border-color:                @RELAX18;
+    spacing:                     3;
+    separatorcolor:              @RELAX16;
+    urgent-background:           @background;
+    selected-urgent-background:  @RELAX16;
+    alternate-urgent-foreground: @urgent-foreground;
+    background-color:            @RELAX20;
+    alternate-active-foreground: @active-foreground;
+    active-background:           @background;
+    selected-active-background:  @RELAX16;
+}
+
+#window {
+   background-color: @RELAX20;
+   anchor: north;
+   x-offset: 50%;
+   location: west;
+   y-offset: -20%;
+}
+
+#mainbox {
+    border:  0;
+    padding: 30;
+}
+
+#message {
+    border:       4px 4px 4px ;
+    border-color: @separatorcolor;
+    padding:      20 ;
+}
+
+#textbox {
+    text-color: @foreground;
+}
+
+#listview {
+    fixed-height: 0;
+    padding:	  5 0 0;
+    spacing:      2px ;
+}
+
+#element {
+    border:  0;
+    padding: 3px ;
+}
+
+#element.normal.normal {
+    background-color: @normal-background;
+    text-color:       @normal-foreground;
+}
+
+#element.normal.urgent {
+    background-color: @urgent-background;
+    text-color:       @urgent-foreground;
+}
+
+#element.normal.active {
+    background-color: @active-background;
+    text-color:       @active-foreground;
+}
+
+#element.selected.normal {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+}
+
+#element.selected.urgent {
+    background-color: @selected-urgent-background;
+    text-color:       @selected-urgent-foreground;
+}
+
+#element.selected.active {
+    background-color: @selected-active-background;
+    text-color:       @selected-active-foreground;
+}
+
+#element.alternate.normal {
+    background-color: @alternate-normal-background;
+    text-color:       @alternate-normal-foreground;
+}
+
+#element.alternate.urgent {
+    background-color: @alternate-urgent-background;
+    text-color:       @alternate-urgent-foreground;
+}
+
+#element.alternate.active {
+    background-color: @alternate-active-background;
+    text-color:       @alternate-active-foreground;
+}
+
+#button.selected {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+}
+
+#inputbar {
+    spacing:    1;
+    text-color: @normal-foreground;
+    padding:    1px ;
+    border:	0 0 0;
+    border-color: @separatorcolor;
+}
+
+#case-indicator {
+    spacing:    0;
+    text-color: @normal-foreground;
+}
+
+#entry {
+    spacing:    0;
+    text-color: @normal-foreground;
+}
+
+#prompt {
+    spacing:    0;
+    text-color: @normal-foreground;
+}

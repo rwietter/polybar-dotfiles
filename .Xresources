@@ -1,0 +1,160 @@
+!-----------------------------------------------------------------------
+!                         Xft settings
+!-----------------------------------------------------------------------
+
+! DPI/Font
+Xft.dpi: 30
+Xft.autohint: 0
+Xft.antialias: 1
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+! Dylans Xresources
+URxvt.scrollBar: true
+URxvt*buffered: true
+
+Xft.dpi:                80
+Xft.autohint:           0
+Xft.antialias:          true
+Xft.rgba:               rgb
+Xft.hinting:            true
+Xft.lcdfilter:          lcddefault
+Xft.hintstyle:          hintsfull
+
+
+!-----------------------------------------------------------------------
+!                        URxvt settings
+!-----------------------------------------------------------------------
+! light
+!#define base00 #FFFFFF
+!#define base01 #282A36
+!#define base02 #303030
+!#define base03 #5f5a60
+!#define base04 #505050
+!#define base05 #303030
+!#define base06 #808080
+!#define base07 #282A36
+!#define base08 #C02A4C
+!#define base09 #BD2B55
+!#define base0A #c3ba63
+!#define base0B #84b97c
+!#define base0C #BD2B55
+!#define base0D #639ee4
+!#define base0E #303030
+!#define base0F #303030
+
+#define nord0 #1d2433
+#define nord1 #3B4252
+#define nord2 #434C5E
+#define nord3 #4C566A
+#define nord4 #FFFFFF
+#define nord5 #E5E9F0
+#define nord6 #E5E9F0
+#define nord7 #EC6F9F
+#define nord8 #88C0D0
+#define nord9 #81A1C1
+#define nord10 #5E81AC
+#define nord11 #D91C64
+#define nord12 #D08770
+#define nord13 #EBCB8B
+#define nord14 #17DFA3
+#define nord15 #B48EAD
+
+*.foreground:   nord4
+*.background:   nord0
+*.cursorColor:  nord4
+*fading: 0
+*fadeColor: nord3
+
+*.color0: nord1
+*.color1: nord11
+*.color2: nord14
+*.color3: nord13
+*.color4: nord9
+*.color5: nord15
+*.color6: nord8
+*.color7: nord5
+*.color8: nord3
+*.color9: nord11
+*.color10: nord14
+*.color11: nord13
+*.color12: nord9
+*.color13: nord15
+*.color14: nord7
+*.color15: nord6
+
+URxvt.colorIT:                        #DEDEDE
+URxvt.colorBD:                        #B1ACAC
+URxvt.colorUL:                       #1A8A74
+URxvt.highlightTextColor:             #ffffff
+URxvt.highlightColor:                 #1A8A74
+URxvt.underlineColor:                #1D1F21
+
+
+! +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+Urxvt.secondaryScroll:  true    # Enable Shift-PageUp/Down in screen
+
+URxvt.internalBorder:    25
+URxvt.externalBorder:    10
+URxvt.lineSpace:         0
+URxvt*shading:           30
+URxvt.depth:             32
+URxvt.saveLines:         700
+URxvt*geometry:          120x25
+URxvt*terminalName:      rxvt-unicode-256color
+URxvt*visualBell:        false
+
+!! Scrollbar
+!URxvt.scrollStyle:      rxvt
+URxvt.scrollBar:         false
+URxvt*scrollTtyOutput:   false
+URxvt*scrollWithBuffer:  true
+URxvt*scrollTtyKeypress: true
+
+! fonts
+urxvt.font:xft:Iosevka Slab:size=12,xft:meguri:pixelsize=11,xft:PowerlineSymbols:size=9,xft:Droid Sans Mono for Powerline Plus Nerd File Types Mono:pixelsize=9,xft:FontAwesome:size=10
+
+URxvt.letterSpace:       true
+
+!! Keybinding
+URxvt.keysym.C-Up:       perl:font-size:increase
+URxvt.keysym.C-Down:     perl:font-size:decrease
+URxvt.keysym.C-S-Up:     perl:font-size:incglobal
+URxvt.keysym.C-S-Down:   perl:font-size:decglobal
+!Home and End keys to jump to the beginning and end of lines
+URxvt*keysym.Home:       \033[1~
+URxvt*keysym.End:        \033[4~
+
+!! Tabs
+URxvt.perl-ext-common:  default,tabbedex,matcher
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 3
+URxvt.tabbed.tab-bg: 0
+
+!! Perl extensions
+! url-select (part of urxvt-perls package)
+URxvt.perl-ext-common:      default,clipboard,matcher,keyboard-select
+URxvt.keysym.M-u: perl:     url-select:select_next
+URxvt.url-select.autocopy:  true
+URxvt.url-select.button:    2
+URxvt.url-select.underline: true
+URxvt.url-launcher:         /usr/bin/opera
+URxvt.matcher.button:       1
+
+!! CopyPaste Keys
+URxvt.keysym.Shift-Control-V:   perl:clipboard:paste
+URxvt.keysym.Shift-Control-C:   perl:clipboard:copy
+
+!! Disable the stupid ctrl+shift 'feature'
+URxvt.iso14755:            false
+URxvt.iso14755_52:         false
+
+!! Cursor
+Xcursor.theme:             Sweet-Mars
+
+!! Pointer
+!URxvt.pointerBlank:        true

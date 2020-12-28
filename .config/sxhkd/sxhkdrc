@@ -1,0 +1,199 @@
+# ------------------- Atalhos ------------------- #
+# make sxhkd reload its configuration files:
+super + Escape
+  pkill -USR1 -x sxhkd; \
+  notify-send -a 'reload' 'Keybindings reloaded'
+
+## reload bspwm config
+super + shift + Escape
+	pkill panel;~/.config/bspwm/bspwmrc
+	notify-send -a 'reload' 'Keybindings reloaded'
+
+locker
+  xautolock -time 5 -locker i3lock-fancy
+
+super + x
+  i3lock-fancy -f "Cantarell" -t "Please, insert correct password to enterys i3lock-fancy"
+
+
+super + Print
+	scrot %Y-%m-%d-%T.png -e 'mv $f ~/Imagens/Prints/' | notify-send -i ~/.local/share/icons/customer-service.png -u normal -t 9000 'Screenshot taken and saved to ~/Imagens/Prints'
+
+
+Print
+	maim -s -m 10 -f png -b 0 -u -o  ~/Imagens/Prints/$(date +%d-%m-%y_%H:%M:%S).png | notify-send -i ~/.local/share/icons/customer-service.png -u normal -t 9000 'Screenshot taken and saved to ~/Imagens/Prints'
+
+super + s
+	subl3
+
+super + y
+	hyper
+
+super + e
+	termite
+
+super + Return
+	urxvt
+
+super + g
+	google-chrome-stable
+
+super + t
+	thunar
+
+super + v
+  avidemux3_qt5
+
+super + ctrl + m
+  mkvtoolnix-gui
+
+super + ctrl + c
+	code
+
+super + n
+  nautilus
+
+super + a
+  atom
+
+super + ctrl + t
+	Telegram
+
+super + ctrl + b
+	burpsuite
+
+super + w
+	wireshark
+
+super + c
+	exec $HOME/.config/polybar/scripts/configs
+
+super + d
+	rofi -show drun -config $HOME/.config/rofi/relaxrun.rasi
+
+super + ctrl + d
+	rofi -show run -config $HOME/.config/rofi/relaxrun.rasi
+
+
+# ------------------- Setup keyboard layout ------------------- #
+setxkbmap -layout "br"
+
+
+# ------------------- Brightness ------------------- #
+XF86MonBrightnessUp
+    light -A 5
+
+XF86MonBrightnessDown
+    light -U 5
+
+
+# ------------------- Volume ------------------- #
+XF86AudioRaiseVolume
+    amixer set Master 5%+ unmute
+
+XF86AudioLowerVolume
+    amixer set Master 5%- unmute
+
+
+# ------------------- Sxhkd hotkeys ------------------- #
+# close and kill
+super + {_,shift + } q
+	bspc node -{c,k}
+
+# kill the currently active window
+ super + u
+   xdotool getwindowfocus windowkill
+
+# alternate between the tiled and monocle layout | Pesquisa Layout inteiro
+super + m
+	bspc desktop -l next
+
+# if the current node is automatic, send it to the last manual, otherwise pull the last leaf
+super + y
+	bspc query -N -n focused.automatic && bspc node -n last.!automatic || bspc node last.leaf -n focused
+
+# swap the current node and the biggest node
+super + g
+	bspc node -s biggest
+
+
+# ------------------- State flags ------------------- #
+# set the window state
+super + shift + space
+	bspc node -t {floating,tiled}
+
+# set the window state
+#super + shift + space
+#	bspc node -t {floating,tiled,pseudo_tiled,fullscreen}
+
+# set the node flags
+super + ctrl + {x,y,z}
+	bspc node -g {locked,sticky,private}
+
+# quit bspwm normally
+super + alt + Escape
+	bspc quit
+
+
+# ------------------- Focus swap ------------------- #
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# focus the node for the given path jump | focar em todas as janelas
+super + {p,b,comma,period}
+	bspc node -f @{parent,brother,first,second}
+
+# focus the next/previous node in the current desktop | Selecionar janelas
+super + {_,shift + }c
+	bspc node -f {next,prev}.local
+
+# focus the next/previous desktop in the current monitor | Mover-se entre as workspace
+super + bracket{left,right}
+	bspc desktop -f {prev,next}.local
+
+# focus the last node/desktop
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# focus the older or newer node in the focus history
+super + {o,i}
+	bspc wm -h off; \
+	bspc node {older,newer} -f; \
+	bspc wm -h on
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+
+
+# ------------------- Preselect ------------------- #
+# preselect the direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + ctrl + space
+	bspc node -p cancel
+
+# cancel the preselection for the focused desktop
+super + ctrl + shift + space
+	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
+
+
+# ------------------- Move/Resize ------------------- #
+# expand a window by moving one of its side outward | gaps
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# contract a window by moving one of its side inward
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+# move a floating window
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}

@@ -1,0 +1,172 @@
+/*********************************************************
+ *  Rofi color theme
+ *
+ *  Based on the Gruvbox color scheme for Vim by morhetz
+ *  https://github.com/morhetz/gruvbox
+ *
+ *  File: gruvbox*dark*hard.theme
+ *  Desc: Gruvbox dark (hard contrast) color theme for Rofi
+ *  Author: bardisty <b@bah.im>
+ *  Source: https://github.com/bardisty/gruvbox*rofi
+ *  Modified: Sat Oct 22 2016 03:12:10 PDT *0700
+ **********************************************************/
+
+ configuration {
+    width:          360;
+    lines:          22;
+    font:           "Source Sans Pro Light 13";
+    show-match:         true;
+    separator-style:    "solid";
+    hide-scrollbar:     true;
+    }
+
+/* rofi.color-normal:                   argb:#0383c4, #c4cbd4, argb:#964045, #4084d6, #f9f9f9
+rofi.color-urgent:                   argb:#02d303, #cc6666, argb:#e52d30, #a54242, #f9f9f9
+rofi.color-active:                   argb:#02d303, #b5bd68, argb:#e42d30, #8c9440, #f9f9f9
+rofi.color-window:                   argb:#f22d30, #7c8389, #1d1f21
+rofi.separator-style:                solid */
+
+* {
+    RELAX0:              #2E3440;
+    RELAX1:              #3B4252;
+    RELAX2:              #434C5E;
+    RELAX3:              #4C566A;
+    RELAX4:              #D8DEE9;
+    RELAX5:              #E5E9F0;
+    RELAX:               #ECEFF4;
+    RELAX:               #8FBCBB;
+    RELAX:               #88C0D0;
+    RELAXn:              #81A1C1;
+    RELAX10:             #5E81AC;
+    RELAX11:             #BF616A;
+    RELAX12:             #D08770;
+    RELAX13:             #EBCB8B;
+    RELAX14:             #b9aa99;
+    RELAX15:             #B48EAD;
+    RELAX16:             #FFFFFF;
+    RELAX17:             #3d3d3d;
+    RELAX18:             #00ffcc;
+    RELAX19:             #d1d1e0;
+    RELAX20:             #202020;
+    background:                  @RELAX20;
+    foreground:                  @RELAX16;
+    selected-normal-foreground:  @RELAX16;
+    normal-foreground:           @foreground;
+    alternate-normal-background: @RELAX20;
+    selected-urgent-foreground:  @RELAX4;
+    urgent-foreground:           @foreground;
+    alternate-urgent-background: @RELAX0;
+    active-foreground:           @RELAX20;
+    selected-active-foreground:  @RELAX20;
+    alternate-active-background: @RELAX20;
+    bordercolor:                 @RELAX10;
+    alternate-normal-foreground: @foreground;
+    normal-background:           @background;
+    selected-normal-background:  @RELAX17;
+    border-color:                @RELAX18;
+    spacing:                     3;
+    separatorcolor:              @RELAX20;
+    urgent-background:           @background;
+    selected-urgent-background:  @RELAX3;
+    alternate-urgent-foreground: @urgent-foreground;
+    background-color:            @RELAX20;
+    alternate-active-foreground: @active-foreground;
+    active-background:           @background;
+    selected-active-background:  @RELAX3;
+}
+#window {
+    background-color: @background;
+    border:           0;
+    padding:          2;
+}
+#mainbox {
+    border:  0;
+    padding: 0;
+}
+#message {
+    border:       1px dash 0px 0px ;
+    border-color: @separatorcolor;
+    padding:      5px ;
+}
+#textbox {
+    text-color: @foreground;
+}
+#listview {
+    fixed-height: 0;
+    border:       1px dash 0px 0px ;
+    border-color: @separatorcolor;
+    spacing:      2px;
+    scrollbar:    true;
+    padding:      1px 0px 0px ;
+}
+#element {
+    border:  20;
+    padding: 1px ;
+}
+#element.normal.normal {
+    background-color: @normal-background;
+    text-color:       @normal-foreground;
+}
+#element.normal.urgent {
+    background-color: @urgent-background;
+    text-color:       @urgent-foreground;
+}
+#element.normal.active {
+    background-color: @active-background;
+    text-color:       @active-foreground;
+}
+#element.selected.normal {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+}
+#element.selected.urgent {
+    background-color: @selected-urgent-background;
+    text-color:       @selected-urgent-foreground;
+}
+#element.selected.active {
+    background-color: @selected-active-background;
+    text-color:       @selected-active-foreground;
+}
+#element.alternate.normal {
+    background-color: @alternate-normal-background;
+    text-color:       @alternate-normal-foreground;
+}
+#element.alternate.urgent {
+    background-color: @alternate-urgent-background;
+    text-color:       @alternate-urgent-foreground;
+}
+#element.alternate.active {
+    background-color: @alternate-active-background;
+    text-color:       @alternate-active-foreground;
+}
+#scrollbar {
+    width:        1px ;
+    border:       0;
+    handle-width: 8px ;
+    padding:      0;
+}
+#sidebar {
+    border:       2px dash 0px 0px ;
+    border-color: @separatorcolor;
+}
+#button.selected {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+}
+#inputbar {
+    spacing:    0;
+    text-color: @normal-foreground;
+    padding:    1px ;
+}
+#case-indicator {
+    spacing:    0;
+    text-color: @normal-foreground;
+}
+#entry {
+    spacing:    0;
+    text-color: @normal-foreground;
+}
+#prompt {
+    spacing:    0;
+    text-color: @normal-foreground;
+}

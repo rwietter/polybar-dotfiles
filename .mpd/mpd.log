@@ -1,0 +1,924 @@
+Oct 08 12:54 : exception: Failed to open '/home/rwietter/.mpd/mpdstate': No such file or directory
+Oct 08 12:54 : config: option 'server' on line 12 was not recognized
+Oct 08 12:54 : config: option 'sink' on line 13 was not recognized
+Oct 08 12:54 : exception: Failed to open '/home/rwietter/.mpd/mpdstate': No such file or directory
+Oct 08 12:54 : config: option 'server' on line 12 was not recognized
+Oct 08 12:54 : config: option 'sink' on line 13 was not recognized
+Oct 08 12:57 : update: added /01 Don Diablo - The Same Way.mp3
+Oct 08 13:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:06 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:06 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:12 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:43 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:46 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:51 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 13:55 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:04 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:12 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:38 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:53 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 14:58 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:01 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:07 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:14 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 15:25 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 08 21:21 : config: option 'server' on line 12 was not recognized
+Oct 08 21:21 : config: option 'sink' on line 13 was not recognized
+Oct 09 10:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 10:20 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 10:23 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 10:26 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 10:29 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:06 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:13 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:16 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:19 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:22 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:25 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:28 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:31 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:34 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:37 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:40 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:43 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:47 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:50 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:53 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:56 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 14:59 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:05 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:08 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:11 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:14 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:20 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:24 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:27 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:30 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:33 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:36 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:39 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:42 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:45 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:48 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:51 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:54 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 15:57 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:01 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:04 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:07 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:13 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:16 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:19 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:22 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:25 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 16:28 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 17:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:05 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:08 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:11 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:14 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:20 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:23 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:26 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:29 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:32 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:36 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:39 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:42 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:45 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:48 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:51 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:54 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 19:57 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:00 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:06 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:13 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:16 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:19 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:22 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:25 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:28 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:31 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:34 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:37 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:40 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:43 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:47 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:50 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:53 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:56 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 20:59 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:05 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:08 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:11 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:14 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:20 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:24 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:27 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:30 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:33 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:36 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:39 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:42 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:45 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:48 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:51 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:54 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 21:57 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:01 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:04 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:07 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:13 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:16 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 09 22:19 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 10 00:33 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:02 : config: option 'server' on line 12 was not recognized
+Oct 11 09:02 : config: option 'sink' on line 13 was not recognized
+Oct 11 09:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:02 : config: option 'server' on line 12 was not recognized
+Oct 11 09:02 : config: option 'sink' on line 13 was not recognized
+Oct 11 09:05 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:08 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:11 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:14 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:17 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:20 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:24 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:27 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:30 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:33 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:36 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:39 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:42 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:45 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:48 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:51 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:54 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 09:57 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:01 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:04 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:07 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:13 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:16 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:19 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:22 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:25 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:28 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:31 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:34 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:38 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:41 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:44 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:47 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:50 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:53 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:56 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 10:59 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:02 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:05 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:08 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:12 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:15 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:18 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:21 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:21 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 11 11:23 : config: option 'server' on line 12 was not recognized
+Oct 11 11:23 : config: option 'sink' on line 13 was not recognized
+Oct 11 11:23 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : config: option 'server' on line 12 was not recognized
+Oct 28 00:03 : config: option 'sink' on line 13 was not recognized
+Oct 28 00:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:03 : config: option 'server' on line 12 was not recognized
+Oct 28 00:03 : config: option 'sink' on line 13 was not recognized
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:03 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:03 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : config: option 'server' on line 12 was not recognized
+Oct 28 00:09 : config: option 'sink' on line 13 was not recognized
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:09 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:09 : config: option 'server' on line 12 was not recognized
+Oct 28 00:09 : config: option 'sink' on line 13 was not recognized
+Oct 28 00:10 : config: option 'server' on line 12 was not recognized
+Oct 28 00:10 : config: option 'sink' on line 13 was not recognized
+Oct 28 00:10 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:10 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:10 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:10 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:10 : player: played "01 Don Diablo - The Same Way.mp3"
+Oct 28 00:10 : exception: Failed to decode /home/rwietter/Music/01 Don Diablo - The Same Way.mp3; Failed to open '/home/rwietter/Music/01 Don Diablo - The Same Way.mp3': No such file or directory
+Oct 28 00:10 : update: removing 01 Don Diablo - The Same Way.mp3
+Nov 02 10:40 : config: option 'server' on line 12 was not recognized
+Nov 02 10:40 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:40 : update: added /Vintage Culture & Re Dupre   Rich N’ Young.flac
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 10:40 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 10:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:44 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:45 : config: option 'server' on line 12 was not recognized
+Nov 02 10:45 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:46 : config: option 'server' on line 12 was not recognized
+Nov 02 10:46 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:46 : config: option 'path' on line 14 was not recognized
+Nov 02 10:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:46 : config: option 'server' on line 12 was not recognized
+Nov 02 10:46 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:47 : config: option 'server' on line 12 was not recognized
+Nov 02 10:47 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:48 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:48 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:48 : config: option 'server' on line 12 was not recognized
+Nov 02 10:48 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:48 : config: option 'path' on line 14 was not recognized
+Nov 02 10:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:49 : config: option 'server' on line 12 was not recognized
+Nov 02 10:49 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:49 : exception: Failed to open audio output
+Nov 02 10:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:49 : config: option 'server' on line 12 was not recognized
+Nov 02 10:49 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:50 : exception: Failed to open audio output
+Nov 02 10:50 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:50 : config: option 'server' on line 12 was not recognized
+Nov 02 10:50 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:50 : config: option 'path' on line 14 was not recognized
+Nov 02 10:50 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:50 : config: option 'server' on line 12 was not recognized
+Nov 02 10:50 : config: option 'sink' on line 13 was not recognized
+Nov 02 10:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:51 : exception: Failed to open audio output
+Nov 02 10:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:51 : exception: Failed to open audio output
+Nov 02 10:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 10:52 : config: option 'path' on line 18 was not recognized
+Nov 02 10:57 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:02 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:06 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:11 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:20 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:29 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:38 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:42 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:47 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 11:56 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:00 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:05 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:09 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:14 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:22 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:27 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:31 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 12:36 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 23:40 : config: option 'path' on line 18 was not recognized
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 23:40 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:40 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:40 : player: problems opening audio device while playing "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:41 : exception: Failed to open "my_fifo" (alsa); Failed to open ALSA device "default": Device or resource busy
+Nov 02 23:41 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 23:41 : config: option 'path' on line 18 was not recognized
+Nov 02 23:44 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 23:48 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 23:53 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 02 23:57 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:02 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:06 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:11 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:20 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:29 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:38 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:42 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 00:47 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:42 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 08:55 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:00 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:04 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:09 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:13 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:22 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:27 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:31 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:36 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:40 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:45 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:54 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 09:58 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:03 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:07 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:12 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:16 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:21 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:25 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:30 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:34 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:39 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:48 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 10:57 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:01 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:06 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:42 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 11:55 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:00 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:04 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:09 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:13 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:22 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:27 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:31 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:36 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:40 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:45 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:54 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 12:58 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:03 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:07 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:11 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:16 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:20 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:25 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:29 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:34 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:38 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:47 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 13:56 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:01 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:05 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:14 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:23 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:32 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:41 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:50 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:55 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 14:59 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:04 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:08 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:13 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:17 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:22 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:26 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:31 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:35 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:40 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:44 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 15:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 18:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 18:57 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:01 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:06 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 03 19:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 10:45 : config: option 'path' on line 18 was not recognized
+Nov 05 10:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 10:54 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 10:58 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:03 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:07 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:12 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:16 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 05 11:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 09:48 : config: option 'path' on line 18 was not recognized
+Nov 26 09:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 09:50 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 09:51 : update: removing Vintage Culture & Re Dupre   Rich N’ Young.flac
+Nov 26 09:52 : update: added /Vintage Culture & Re Dupre   Rich N’ Young.flac
+Nov 26 09:53 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 09:58 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:02 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:07 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:11 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:16 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:20 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:25 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:29 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:34 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:38 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:47 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 10:56 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:01 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:05 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:14 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:23 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:32 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:41 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Nov 26 11:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:02 : exception: Failed to open audio output
+Dec 03 09:02 : exception: Failed to open audio output
+Dec 03 09:02 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:03 : exception: Failed to open audio output
+Dec 03 09:07 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:12 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:16 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:21 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:25 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:30 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:34 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:39 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:48 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:52 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 09:57 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:01 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:06 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:15 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:19 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:24 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:28 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:33 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:37 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:42 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:46 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:51 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 10:55 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:00 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:04 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:09 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:13 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:18 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:22 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:26 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:31 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:35 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:40 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:44 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:49 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:53 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 11:58 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 12:02 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 03 12:04 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 18 20:10 : exception: Failed to open audio output
+Dec 18 20:10 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 18 20:10 : exception: Failed to open audio output
+Dec 26 08:43 : exception: Failed to decode /home/rwietter/Music/Vintage Culture & Re Dupre   Rich N’ Young.flac; Failed to open '/home/rwietter/Music/Vintage Culture & Re Dupre   Rich N’ Young.flac': No such file or directory
+Dec 26 08:43 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 26 09:27 : exception: Failed to decode /home/rwietter/Music/Vintage Culture & Re Dupre   Rich N’ Young.flac; Failed to open '/home/rwietter/Music/Vintage Culture & Re Dupre   Rich N’ Young.flac': No such file or directory
+Dec 26 09:27 : player: played "Vintage Culture & Re Dupre   Rich N’ Young.flac"
+Dec 26 09:27 : update: removing Vintage Culture & Re Dupre   Rich N’ Young.flac
+Dec 26 09:28 : exception: Failed to commit /home/rwietter/.mpd/mpdstate: File exists
+Dec 26 09:28 : update: added /DJ Albert Green - Summer Solstice (Deep House Remix).mp3
+Dec 26 09:29 : exception: Failed to open audio output
+Dec 26 09:30 : exception: Failed to open audio output
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 09:30 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 09:30 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 09:31 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 09:31 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 09:31 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 09:31 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 09:31 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 09:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:37 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:40 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:43 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:55 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:58 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 09:59 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:01 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:04 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:06 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:15 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:18 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:21 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:24 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:26 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:27 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:28 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:28 : exception: Failed to open audio output
+Dec 26 10:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:30 : exception: Failed to open audio output
+Dec 26 10:32 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:33 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:36 : exception: Failed to open audio output
+Dec 26 10:36 : exception: Failed to open audio output
+Dec 26 10:36 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:37 : config: option 'path' on line 12 was not recognized
+Dec 26 10:38 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:38 : config: option 'path' on line 12 was not recognized
+Dec 26 10:40 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:40 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:40 : config: option 'server' on line 19 was not recognized
+Dec 26 10:40 : config: option 'sink' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 10:40 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 10:41 : exception: Failed to open audio output
+Dec 26 10:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:41 : config: option 'server' on line 19 was not recognized
+Dec 26 10:41 : config: option 'sink' on line 20 was not recognized
+Dec 26 10:44 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 10:47 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:50 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 10:53 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:56 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 10:56 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 10:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 10:59 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:00 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:04 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 11:07 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:08 : config: option 'server' on line 19 was not recognized
+Dec 26 11:08 : config: option 'sink' on line 20 was not recognized
+Dec 26 11:11 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:14 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:17 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:20 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:23 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:26 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:32 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:34 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:37 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:40 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:43 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:55 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 11:58 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:00 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:03 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:06 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:15 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:18 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:21 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:24 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:27 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:29 : config: option 'server' on line 19 was not recognized
+Dec 26 12:29 : config: option 'sink' on line 20 was not recognized
+Dec 26 12:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 12:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:30 : config: option 'server' on line 19 was not recognized
+Dec 26 12:30 : config: option 'sink' on line 20 was not recognized
+Dec 26 12:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:30 : exception: Failed to commit /home/rwietter/.mpd/mpdstate: File exists
+Dec 26 12:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:30 : config: option 'server' on line 19 was not recognized
+Dec 26 12:30 : config: option 'sink' on line 20 was not recognized
+Dec 26 12:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:33 : config: option 'server' on line 19 was not recognized
+Dec 26 12:33 : config: option 'sink' on line 20 was not recognized
+Dec 26 12:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 12:38 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:39 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:41 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:42 : config: option 'server' on line 19 was not recognized
+Dec 26 12:42 : config: option 'sink' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:42 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:44 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:44 : exception: Failed to open "MPD" (pulse); failed to connect: Connection refused
+Dec 26 12:44 : exception: Failed to open "pulse audio" (pulse); failed to connect: Connection refused
+Dec 26 12:44 : exception: Failed to commit /home/rwietter/.mpd/mpdstate: File exists
+Dec 26 12:44 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:44 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:44 : exception: Failed to open "pulse audio" (pulse); failed to connect: Connection refused
+Dec 26 12:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:46 : exception: Failed to open "pulse audio" (pulse); failed to connect: Connection refused
+Dec 26 12:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 12:47 : config: option 'server' on line 19 was not recognized
+Dec 26 12:47 : config: option 'sink' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:47 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:49 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:52 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:55 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:55 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 12:58 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 12:58 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:01 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:01 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:04 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:04 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:07 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:07 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:09 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:12 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:15 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:15 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:18 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:18 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:21 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:21 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:24 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:24 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:27 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:27 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:29 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:32 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:32 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:35 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:38 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:38 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:41 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:44 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:44 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:46 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:49 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:52 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:55 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:55 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 13:58 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 13:58 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:01 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:01 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:04 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:04 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:06 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:06 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:09 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:12 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:15 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:15 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:18 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:18 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:21 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:21 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:24 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:24 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:26 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:26 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:29 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:32 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:32 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:35 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:38 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:38 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:41 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:43 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:43 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:46 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:49 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:52 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:55 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:55 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 14:58 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 14:58 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 15:01 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 15:01 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 15:03 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 15:03 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 15:06 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 15:06 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 15:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 15:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 15:14 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:10 : config: option 'server' on line 19 was not recognized
+Dec 26 22:10 : config: option 'sink' on line 20 was not recognized
+Dec 26 22:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 22:13 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:16 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 26 22:16 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:19 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+ALSA lib pcm_dmix.c:1075:(snd_pcm_dmix_open) unable to open slave
+Dec 26 22:19 : exception: Failed to open "MPD" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 26 22:22 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:24 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:27 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:30 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:33 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:36 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:39 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:42 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:45 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:48 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:51 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:53 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:56 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 22:59 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:02 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:05 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:08 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:11 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:14 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:17 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:19 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:22 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:25 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:28 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:31 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:34 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:37 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:40 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:43 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:48 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:51 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:54 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 26 23:57 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:00 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:03 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:06 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:09 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:12 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:15 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:17 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:20 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:23 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:26 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:29 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:32 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:35 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:38 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:41 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:43 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:46 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:49 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 00:52 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 27 13:07 : config: option 'server' on line 19 was not recognized
+Dec 27 13:07 : config: option 'sink' on line 20 was not recognized
+Dec 27 13:07 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"
+Dec 28 12:26 : config: option 'server' on line 19 was not recognized
+Dec 28 12:26 : config: option 'sink' on line 20 was not recognized
+Dec 28 12:27 : player: played "DJ Albert Green - Summer Solstice (Deep House Remix).mp3"

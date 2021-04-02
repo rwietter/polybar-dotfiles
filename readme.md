@@ -1,6 +1,12 @@
+
+
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/euiciowr/.dots/master/screenshots/7iwai15WuuZ-1YLS6UzvVdC4vtbpjLMIoG8kABoHmrNLML.width-808.png" alt="drawing" width="200">
+<img src="https://i.imgur.com/SIJmkjl.png" alt="drawing" width="100%">
 </p>
+
+<br/><br/>
+
+<h2 align="center">Arch Dotfiles</h2>
 
 <br/><br/>
 

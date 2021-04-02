@@ -4,11 +4,11 @@
 <img src="https://i.imgur.com/SIJmkjl.png" alt="drawing" width="100%">
 </p>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">Arch Dotfiles</h2>
 
-<br/><br/>
+<br/>
 
 <div>
     <img src="./assets/28-12-20_19:46:27.png" alt="screenshots" align="right" width="65%" />

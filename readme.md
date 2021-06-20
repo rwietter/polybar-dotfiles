@@ -13,7 +13,7 @@
 <div>
     <img src="./assets/28-12-20_19:46:27.png" alt="screenshots" align="right" width="65%" />
     <h3>Description</h3>
-    <p>This my Arch Linux System dotsfiles</p>
+    <p>This my Arch Linux System dotfiles</p>
     <h3>Setup</h3>
     <ul>
       <li><strong>WM</strong>: bspwm</li>
